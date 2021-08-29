@@ -1,0 +1,47 @@
+kmit tv
+http://www.worldbestlearningcenter.com/index_files/c_loop_exercises.htm
+http://www.srccodes.com/p/article/15/example-to-generate-random-alpha-numeric-text
+
+Link about clustering:
+https://java.net/projects/glassfish-samples/sources/svn/content/trunk/ws/javaee6/ha/clusterjsp/docs/index.html
+
+Table Design:
+http://www.csstablegenerator.com/?table_id=73
+
+
+
+http://www.java2s.com/Code/Java/Security/GeneratearandomStringsuitableforuseasatemporarypassword.htm
+
+
+http://algoviz.org/OpenDSA/Books/OpenDSA/html/HashFuncExamp.html#
+
+
+http://www.cs.cmu.edu/~adamchik/15-121/lectures/Hashing/hashing.html
+
+blink:
+http://www.easywayserver.com/blog/javascript-blink-color-text-font-in-html/
+
+binary tree:
+http://www.roseindia.net/java/java-get-example/java-binary-tree-code.shtml
+
+gmap:
+http://www.codeproject.com/Articles/20590/Google-Maps-in-HTML-ASP-NET-PHP-JSP-etc-with-ease
+
+http://www.geocodezip.com/
+
+online java run :
+
+http://www.compileonline.com/
+var haight = new google.maps.LatLng(13.060422000,80.249583000);
+var oceanBeach = new google.maps.LatLng(28.617508300, 77.2410092000);
+
+https://developers.google.com/maps/documentation/javascript/examples/event-closure
+
+http://www.homeandlearn.co.uk/java/java.html
+
+http://www.roseindia.net/jsp/poi/Createexcel.shtml
+
+
+http://support.microsoft.com/default.aspx?scid=kb;en-us;241201&sd=tech
+
+http://www.felgall.com/net3e.htm

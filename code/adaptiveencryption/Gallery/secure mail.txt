@@ -1,0 +1,10 @@
+Secure mail in firefox:
+
+https://addons.mozilla.org/en-US/firefox/addon/encrypted-communication/
+
+
+Secure mail in chrome:
+secure mail by (streak) extension
+
+emulator for:
+http://www.tricedesigns.com/2012/07/31/emulating-phonegapcordova-apps-in-the-browser/

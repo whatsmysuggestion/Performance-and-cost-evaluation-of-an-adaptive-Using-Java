@@ -1,0 +1,76 @@
+*You have received the software as part of the Visual Studio 9.0 Beta Program. 
+The terms and conditions of the Visual Studio 9.0, Beta 1 license agreement 
+applies to your use of the software.** MICROSOFT PRE-RELEASE SOFTWARE LICENSE 
+TERMS MICROSOFT VISUAL STUDIO 9.0 PROFESSIONAL, BETA 1 These license terms are 
+an agreement between Microsoft Corporation (or based on where you live, one of 
+its affiliates) and you. Please read them. They apply to the pre-release 
+software named above, which includes the media on which you received it, if any. 
+The terms also apply to any Microsoft • updates, • supplements, • Internet-based 
+services, and • support services for this software, unless other terms accompany 
+those items. If so, those terms apply. BY USING THE SOFTWARE, YOU ACCEPT THESE 
+TERMS. IF YOU DO NOT ACCEPT THEM, DO NOT USE THE SOFTWARE. If you comply with 
+these license terms, you have the rights below. 1. INSTALLATION AND USE RIGHTS. 
+• General. You may install and use one copy of the software on your premises to 
+design, develop and test your programs for use with the software. • Evaluation 
+Only. The software is for evaluation purposes only. You may not distribute any 
+program you develop with the software. • Included Microsoft Programs. These 
+license terms apply to all Microsoft programs included with the software. • 
+Third Party Programs. The software contains third party programs. The license 
+terms with those programs apply to your use of them. 2. INTERNET-BASED SERVICES. 
+Microsoft provides Internet-based services with the software. It may change or 
+cancel them at any time. 3.
+
+ TIME-SENSITIVE SOFTWARE. The software will stop 
+running on 15 March 2008. You will not receive any other notice. You may not be 
+able to access data used with the software when it stops running. 
+4.
+ PRE-RELEASE  SOFTWARE. This software is a pre-release version. It may not work the way a 
+final version of the software will. We may change it for the final, commercial 
+version. We also may not release a commercial version. 5. FEEDBACK. If you give 
+feedback about the software to Microsoft, you give to Microsoft, without charge, 
+the right to use, share and commercialize your feedback in any way and for any 
+purpose. You also give to third parties, without charge, any patent rights 
+needed for their products, technologies and services to use or interface with 
+any specific parts of a Microsoft software or service that includes the 
+feedback. You will not give feedback that is subject to a license that requires 
+Microsoft to license its software or documentation to third parties because we 
+include your feedback in them. These rights survive this agreement. 6. SCOPE OF 
+LICENSE. The software is licensed, not sold. This agreement only gives you some 
+rights to use the software. Microsoft reserves all other rights. Unless 
+applicable law gives you more rights despite this limitation, you may use the 
+software only as expressly permitted in this agreement. In doing so, you must 
+comply with any technical limitations in the software that only allow you to use 
+it in certain ways. You may not • disclose the results of any benchmark tests of 
+the software to any third party without Microsoft’s prior written approval; • 
+work around any technical limitations in the software; • reverse engineer, 
+decompile or disassemble the software, except and only to the extent that 
+applicable law expressly permits, despite this limitation; • make more copies of 
+the software than specified in this agreement or allowed by applicable law, 
+despite this limitation; • publish the software for others to copy; • rent, 
+lease or lend the software; • transfer the software or this agreement to any 
+third party; or • use the software for commercial software hosting services. 7. 
+EXPORT RESTRICTIONS. The software is subject to United States export laws and 
+regulations. You must comply with all domestic and international export laws and 
+regulations that apply to the software. These laws include restrictions on 
+destiŒÈŽØŽÀŽÐ3ÀŽàŽè¾f‹¿ f‹‹øƒïfÃf‰¾f.3ÀŽØ ÀfƒÈ"ÀfgêDð   f¸ fŽØfŽÀfŽàfŽèfŽÐ‹ó‹þÇ   ¸ÿ   ‡=ÿ   t÷‹þÇ  ‹‹þÇ  ‹à‰¸    ‹þÇ   ‡‹þÇ(  ‹P‹þÇ$  ‹P‹þÇ  ‹ÿÐƒÄúôëü¸Ì%õÿÃ¸D   ÃÌÌÌÌÌU‹ìQ‹E‹U‹Mƒá?­ÐÓêƒù r‹Â3ÒYÉÃÌÌÌÌÌÌÌÌÌÌÌÌÌÌÌôÃ	ÃÃU‹ì`‹E¢‹}‰‰_‰O‰WaÉÃU‹ìQ‹M2YÉÃU‹ì`‹M‹E‹U0aÉÃ1Ã À©   @u	ë   `"ÀÃP À%ÿÿÿŸ"ÀXÃœXÃúÃûÃU‹ì`‹E‹M¢‹}‰‰_‰O‰WaÉÃ    @   .5656:6b6l6~6†6«7·7Ì7×7á7ö788 80868g8€8•8±8¿8Ó8Þ8ì8 9      4                      sRÿÿpç—	nu9A¿?Â£~LéA– ø(  H×tŒüæN’ˆÄ¾À’¤‡Æa~MCOï§CÎtÅT VZL¸Ø     (õÿ    À             .text   Œ                          `.reloc     À      À                                          ÓÉˆ 	µN‚`>-¾Ú‰   €”(õÿ=)õÿf.¡ðf.£øþª*]oùÔœ¬M´‹„Ø{õÆÜ<ûuJžyYéÝx¹úoLk°ØH¢ºåñÍ}V‡Æa~MCOï§CÎtÅS 3 S m m V a r i a b l e               U‹ì…Àt‹ ]ÿ`P¡,õÿ]ÿ ¼   U‹ìì|  S‹]‹VWMèQj j hÌ(õÿSÿP E„PEìPEðP‹Eèh¼(õÿhü(õÿSÇEìd   ÇEð   ÿ‹EŸ‰E‹E£h   „ýÿÿ‰Eô‹h € Q¾ ü ÿPPÿuô¹   ÿu½„ùÿÿh € ‹Ãó¥èUÿÿÿ‹u£Æ € E¨‰‹EŒ‰F‹Eˆ‰F‹E”‰FŠFŠM$ü€áƒÄD
+ÁMüQ3ÿWWˆF‹hÜ(õÿSÿP ‹F‹M‰LÅ¬3ÀƒÄ9}ˆ‰EøvxM¨‰M;EŒt]‹N‹LÍ¬M˜‹U¶À‰JÆF j‰FèN  Y‹M‹	% ðÿÿ   Áá‰HÇ  B  ÷    uøë‹Eühˆ  PSÿPƒÄ€~ tê‹EøƒE@;Eˆ‰EørŽ¶EŒ€NMQWW‰F‹hì(õÿSÿP ‹EWWWWPSÿ‹EWPSÿPƒÄ8ë‹Eühˆ  PSÿPƒÄ9~wë‹E €  3É9}ˆv;MŒt‹U˜ÑêPf‹TM¨f‰A;Mˆrå‹EôƒÀP…„ýÿÿ¹   µ„ùÿÿ¿ ü Pó¥‹h € ÿQPƒÄ_^3À[ÉÃU‹ìV‹u‹MQVÿP(…ÀYY|ƒ}t3Àë‹h¤(õÿVÿP$YY^]ÃÌÌÌÌÌÌÌôÃ	ÃÃU‹ì`‹E¢‹}‰‰_‰O‰WaÉÃU‹ìQ‹M2YÉÃU‹ì`‹M‹E‹U0aÉÃ1Ã À©   @u	ë   `"ÀÃP À%ÿÿÿŸ"ÀXÃœXÃúÃûÃU‹ì`‹E‹M¢‹}‰‰_‰O‰WaÉÃ                                       4282¾2ã2û2 3™3D4ü4      ³ÿÿÞ™,ÁsÏ.B¦ykÂ\š‹ A¦ ø  H×tŒüæN’ˆÄ¾À’¤  t VZL¸`	     Œ,õÿ       `           .text   u
+     €
+                    `.reloc  `      `                                              ˆì   	      .Ç 0Ç Ç Ç × @× × ×  ç ç ¡ç ç ÷ ÷ ÷ ÷ !`!!!û! ! !@!ü'! '! '!@'!P"!"E""ý'" '" '"@'"§ @§ !§ § @· · ¡· · § @§ !§ § @· · ¡· · €ì   
+      G!DG!G!G!ðg!g!g!Ag!ðw!w!w!Aw!0—!œ—!¡—!—!?§!4§!§!§!ð·!·!·!A·!ðÇ!Ç!Ç!AÇ!ð×!×!×!A×!ðç!ç!ç!Aç!ð÷!÷!÷!A÷! W!@W!!W!W!@‡!˜‡!¡‡!‡! W!@W!!W!W!@‡!˜‡!¡‡!‡!ˆÔ   	      '!'!@'!'!G"G"`G"G"g!g!g!g!W"W" W"W"w!¡w!w!0w!W!W!0W!2W!™‡!3‡!‡!>‡!Ç!ÄÇ!!Ç!ðÇ!·!D·!!·!ð·!!!!@! !G!¡G!G!1G!B!!!@! !BG!¡G!G!1G!!!!A! !G!¡G!‘G!1G!€ì   
+      G!DG!G!G!ðg!g!g!Ag!ðw!w!w!Aw!@—!œ—!¡—!—!O§!4§!§!§!ð·!·!·!A·!ðÇ!Ç!Ç!AÇ!ð×!×!ƒ×!Y×!0ç!ç!Cç!™ç!ð÷!÷!÷!A÷! W!@W!!W!W!P‡!˜‡!¡‡!‡! W!AW!!W!W!P‡!™‡!¡‡!‡!…ì   
+      G!DG!G!G!g!dg!g!g!w!$w!w!w!P—!œ—!¡—!—!O§!4§!§!§! ·!L·!!·!·!ðÇ!Ç!Ç!AÇ!×!ž×!×!@×!0ç!qç!Dç!ç!`÷!÷!Ä÷!÷!W!W!W!W!@‡!œ‡!¡‡!‡!W!W!W!W!@‡!œ‡!¡‡!‡!ÆÜ<ûuJžyYéÝx¹úoLk°ØH¢ºåñÍ}VdU[Ïr•D»°É‡—áçD4õÿ,4õÿ4õÿü3õÿà3õÿÔ3õÿÀ3õÿ´3õÿ¤3õÿ3õÿ„3õÿt3õÿd3õÿP3õÿ@3õÿ43õÿ(3õÿ3õÿ3õÿü2õÿð2õÿä2õÿØ2õÿÌ2õÿ¼2õÿ´2õÿ¨2õÿœ2õÿŒ2õÿA z a r i a S e t t i n g   Protocol Error  TFTP Error  ICMP Error  Aborted Already started Not started Time out    No mapping  No Response Access Denied   Not Found   Media changed   No Media    Volume Full Volume Corrupt  Out of Resources    Write Protected Device Error    Not Ready   Buffer Too Small    Bad Buffer Size Unsupported Invalid Para     Û~ €  ™õÿG  àÚ~ÿ ðÚ~ ð D   8Ý~0æØ~ 
+indemnisation pour les autres dommages, y compris les dommages spéciaux, 
+indirects ou accessoires et pertes de bénéfices. Cette limitation concerne : • 
+tout ce qui est relié au logiciel, aux services ou au contenu (y compris le 
+code) figurant sur des sites Internet tiers ou dans des programmes tiers ; et • 
+les réclamations au titre de violation de contrat ou de garantie, ou au titre de 
+responsabilité stricte, de négligence ou d’une autre faute dans la limite 
+autorisée par la loi en vigueur. Elle s’applique également, même si Microsoft 
+connaissait ou devrait connaître l’éventualité d’un tel dommage. Si votre pays 
+n’autorise pas l’exclusion ou la limitation de responsabilité pour les dommages 
+indirects, accessoires ou de quelque nature que ce soit, il se peut que la 
+limitation ou l’exclusion ci-dessus ne s’appliquera pas à votre égard. EFFET 
+JURIDIQUE. Le présent contrat décrit certains droits juridiques. Vous pourriez 
+avoir d’autres droits prévus par les lois de votre pays. Le présent contrat ne 
+modifie pas les droits que vous confèrent les lois de votre pays si celles-ci ne 
+le permettent pas. 
